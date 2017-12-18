@@ -1,4 +1,4 @@
-package com.example.chandru.myapplicationvook;
+package com.example.chandru.myapplicationvook.Login;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,6 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
+
+import com.example.chandru.myapplicationvook.Landing.FirstScreen;
+import com.example.chandru.myapplicationvook.R;
 
 public class Forgotpass_activity extends AppCompatActivity {
     EditText email;

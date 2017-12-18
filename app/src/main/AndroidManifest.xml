@@ -18,16 +18,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"></activity>
-        <activity android:name=".Signup_activity">
+        <activity android:name=".IntroScreen.MainActivity"></activity>
+        <activity android:name=".Login.Signup_activity">
 
         </activity>
-        <activity android:name=".Signin_activity" />
-        <activity android:name=".Forgotpass_activity" >
+        <activity android:name=".Login.Signin_activity" />
+        <activity android:name=".Login.Forgotpass_activity" >
 
         </activity>
-        <activity android:name=".WelcomeActivity"></activity>
-        <activity android:name=".FirstScreen"></activity>
+        <activity android:name=".Onboard.WelcomeActivity"></activity>
+        <activity android:name=".Landing.FirstScreen"></activity>
     </application>
 
 </manifest>

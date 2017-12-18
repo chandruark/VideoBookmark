@@ -1,4 +1,4 @@
-package com.example.chandru.myapplicationvook;
+package com.example.chandru.myapplicationvook.IntroScreen;
 
 import android.content.Intent;
 import android.media.MediaPlayer;
@@ -12,6 +12,10 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 import android.widget.VideoView;
+
+import com.example.chandru.myapplicationvook.Login.Signin_activity;
+import com.example.chandru.myapplicationvook.Login.Signup_activity;
+import com.example.chandru.myapplicationvook.R;
 
 public class MainActivity extends AppCompatActivity {
     VideoView mVideoView;

@@ -5,9 +5,14 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.example.chandru.myapplicationvook.IntroScreen.MainActivity;
+import com.example.chandru.myapplicationvook.Landing.FirstScreen;
+import com.example.chandru.myapplicationvook.Model.PrefManager;
+import com.example.chandru.myapplicationvook.Onboard.WelcomeActivity;
+
 public class Splash extends AppCompatActivity {
-    static SharedPreferences prefs = null;
-    static SharedPreferences u_login = null;
+   public static SharedPreferences prefs = null;
+   public static SharedPreferences u_login = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,4 +1,4 @@
-package com.example.chandru.myapplicationvook;
+package com.example.chandru.myapplicationvook.Login;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -10,6 +10,11 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.chandru.myapplicationvook.Landing.FirstScreen;
+import com.example.chandru.myapplicationvook.IntroScreen.MainActivity;
+import com.example.chandru.myapplicationvook.Model.PrefManager;
+import com.example.chandru.myapplicationvook.R;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

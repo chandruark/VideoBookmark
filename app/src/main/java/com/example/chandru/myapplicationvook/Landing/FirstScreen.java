@@ -1,4 +1,4 @@
-package com.example.chandru.myapplicationvook;
+package com.example.chandru.myapplicationvook.Landing;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,9 +6,11 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Toast;
 
-import static com.example.chandru.myapplicationvook.Splash.prefs;
+import com.example.chandru.myapplicationvook.Onboard.WelcomeActivity;
+import com.example.chandru.myapplicationvook.R;
+import com.example.chandru.myapplicationvook.Splash;
+
 import static com.example.chandru.myapplicationvook.Splash.u_login;
 
 public class FirstScreen extends AppCompatActivity {

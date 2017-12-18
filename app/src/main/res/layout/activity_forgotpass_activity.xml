@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:navigationIcon="?attr/homeAsUpIndicator"
-    tools:context="com.example.chandru.myapplicationvook.Forgotpass_activity">
+    tools:context="com.example.chandru.myapplicationvook.Login.Forgotpass_activity">
 
 
     <android.support.v7.widget.Toolbar

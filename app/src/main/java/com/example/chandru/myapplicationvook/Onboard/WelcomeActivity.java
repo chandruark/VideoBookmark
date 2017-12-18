@@ -1,4 +1,4 @@
-package com.example.chandru.myapplicationvook;
+package com.example.chandru.myapplicationvook.Onboard;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,6 +11,9 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import com.example.chandru.myapplicationvook.IntroScreen.MainActivity;
+import com.example.chandru.myapplicationvook.R;
 
 import java.util.ArrayList;
 

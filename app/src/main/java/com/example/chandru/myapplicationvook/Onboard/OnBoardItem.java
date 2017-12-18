@@ -1,4 +1,4 @@
-package com.example.chandru.myapplicationvook;
+package com.example.chandru.myapplicationvook.Onboard;
 
 /**
  * Created by BalaKrishnan on 14-12-2017.
